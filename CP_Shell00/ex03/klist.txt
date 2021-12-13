@@ -1,0 +1,6 @@
+Credentials cache: API:B4AAA8F7-6525-4D75-AF35-3F4F9D10A6A0
+        Principal: ljohnson@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 30 10:02:21 2021  Aug 31 10:02:21 2021  krbtgt/42LYON.FR@42LYON.FR
+Aug 30 10:02:23 2021  Aug 31 10:02:21 2021  HTTP/san-ssd.42lyon.fr@42LYON.FR
